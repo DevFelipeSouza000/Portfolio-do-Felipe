@@ -1,5 +1,14 @@
-# Gerador-de-codigo-com-IA
-Aplicação que gera código HTML automaticamente a partir de descrições.  
-Consumo de API 
-Preview com iframe 
-Botão para copiar código
+# Gerador de Código com IA ⚡
+
+Projeto desenvolvido com HTML, CSS e JavaScript que gera código automaticamente a partir de descrições.
+
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+- API de IA
+
+## Funcionalidades
+- Geração de código
+- Preview em tempo real
+- Copiar código
