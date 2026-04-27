@@ -1,14 +1,27 @@
-# Gerador de Código com IA ⚡
+  # Portfólio do Felipe ⚡
+Desenvolvedor Front-End em formação
 
-Projeto desenvolvido com HTML, CSS e JavaScript que gera código automaticamente a partir de descrições.
+  ## Sobre mim
+Estou estudando desenvolvimento front-end com foco em HTML, CSS e JavaScript.
+Já desenvolvi um projeto utilizando IA para gerar código automaticamente.
 
-## Tecnologias
-- HTML
-- CSS
-- JavaScript
-- API de IA
+  ## Skills
+HTML
+CSS
+JavaScript
+API de IA
 
-## Funcionalidades
-- Geração de código
-- Preview em tempo real
-- Copiar código
+  ## Projetos
+  Gerador de Código com IA ⚡
+  
+  Funcionalidades
+Geração de código
+Preview em tempo real
+Copiar código
+
+  ## Contato
+Email: LinkedInFelipeSouza@gmail.com
+GitHub: github.com/DevFelipeSouza000
+
+Felipe | Front-End Developer
+© 2026 Felipe - Todos os direitos reservados
