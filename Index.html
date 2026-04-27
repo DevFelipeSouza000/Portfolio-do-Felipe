@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Felipe | Front-End Developer</title>
+
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <!-- FUNDO ANIMADO -->
+  <div class="background"></div>
+
+  <header id="header">
+    <h1>Portfólio do Felipe ⚡</h1>
+    <nav>
+      <a href="#sobre">Sobre</a>
+      <a href="#skills">Skills</a>
+      <a href="#projetos">Projetos</a>
+      <a href="#contato">Contato</a>
+    </nav>
+  </header>
+
+  <section class="hero fade-in">
+    <h2>Prazer, me chamo Felipe Souza 👋</h2>
+    <p>Desenvolvedor Front-End em formação</p>
+    <button onclick="scrollToSection('projetos')">Ver Projetos</button>
+  </section>
+
+  <section id="sobre" class="fade-in">
+    <h2>Sobre mim</h2>
+    <p>
+      Sou um autodidata em desenvolvimento front-end com foco em HTML, CSS e JavaScript.
+      Com o apoio da DevClub desenvolvi meu primeiro projeto utilizando IA para gerar códigos automaticamente.
+      Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para criar experiências web incríveis.
+    </p>
+  </section>
+
+  <section id="skills" class="fade-in">
+    <h2>Skills</h2>
+    <div class="skills-list">
+      <span>HTML</span>
+      <span>CSS</span>
+      <span>JavaScript</span>
+    </div>
+  </section>
+
+  <section id="projetos" class="fade-in">
+    <h2>Projetos</h2>
+
+    <div class="card">
+      <h3>Gerador de Código com IA ⚡</h3>
+      <p>
+        Aplicação que gera código HTML automaticamente a partir de descrições.
+      </p>
+
+      <ul>
+        <li>Consumo de API</li>
+        <li>Preview com iframe</li>
+        <li>Copiar código</li>
+      </ul>
+
+      <div class="botoes">
+        <a href="#">Ver Projeto</a>
+        <a href="#">GitHub</a>
+      </div>
+    </div>
+
+  </section>
+
+  <section id="contato" class="fade-in">
+    <h2>Contato</h2>
+    <p>Email: Linkedinfelipesouza@gmail.com</p>
+    <p>GitHub: github.com/DevFelipeSouza000</p>
+  </section>
+
+  <footer>
+    <p>© 2026 Felipe</p>
+  </footer>
+
+  <script src="script.js"></script>
+
+</body>
+</html>
