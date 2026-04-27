@@ -23,5 +23,6 @@ Copiar código
 Email: LinkedInFelipeSouza@gmail.com
 GitHub: github.com/DevFelipeSouza000
 
-Felipe | Front-End Developer
-© 2026 Felipe - Todos os direitos reservados
+  Felipe | Front-End Developer
+
+  © 2026 Felipe - Todos os direitos reservados
